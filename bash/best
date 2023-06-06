@@ -1,1 +1,2 @@
-#!/bin/bash \n echo "Best"
+#!/bin/bash
+echo "Best"
